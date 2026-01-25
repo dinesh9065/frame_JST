@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Ns Automation Suite" parallel="classes" thread-count="2">
+ <listeners>
+        <listener class-name="com.ns.frame.listeners.TestListeners"/>
+        <listener class-name="com.ns.frame.listeners.RetryTransformer"/>
+   <!--   <listener class-name="io.qameta.allure.testng.AllureTestNg"/> -->
+    </listeners>
+    <test name="Smoke Test">
+        <classes>
+            <class name="com.ns.frame.tests.MyFirstTest"/>
+             <class name="com.ns.frame.tests.MySecondTest"/>
+        </classes>   
+    </test>
+</suite>

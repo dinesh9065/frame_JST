@@ -1,0 +1,21 @@
+2026-01-03 09:40:55 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-03 09:41:30 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-03 09:41:31 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-03 09:41:31 [main] INFO  listeners.TestListeners - Generated UUID for test: 1b81ad44-5bff-4606-9ff9-499ea4ade765
+2026-01-03 09:41:31 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-03 09:41:31 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-03 09:41:31 [main] INFO  listeners.TestListeners - Generated UUID for test: b2de603b-5a2d-4d33-846e-6a26583252df
+2026-01-03 09:41:31 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-03 09:41:31 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-03 09:41:31 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-03 09:41:31 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-03 09:41:31 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-03 09:41:33 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-03 09:41:33 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-03 09:41:33 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-03 09:41:34 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-03 09:41:34 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767413494250.png
+2026-01-03 09:41:34 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767413494250.png
+2026-01-03 09:41:34 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-03 09:41:34 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-03 09:41:34 [main] INFO  listeners.TestListeners - Closing browser

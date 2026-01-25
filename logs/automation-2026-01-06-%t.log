@@ -1,0 +1,256 @@
+2026-01-06 13:50:23 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-06 13:50:51 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-06 13:50:51 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 13:50:51 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-06 13:50:51 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@806996
+2026-01-06 13:50:51 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-06 13:50:51 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - isFlakyFailure value: true
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-06 13:50:52 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@806996
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - isFlakyFailure value: true
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-06 13:50:52 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@806996
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - current: 1
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - current: 1
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-06 13:50:52 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767687652969.png
+2026-01-06 13:50:52 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767687652969.png
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-06 13:50:52 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-06 13:50:53 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-06 13:55:41 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@1c7f96b1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - isFlakyFailure value: true
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-06 13:55:59 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@1c7f96b1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - isFlakyFailure value: true
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-06 13:55:59 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@1c7f96b1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - current: 1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - current: 1
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-06 13:55:59 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-06 13:55:59 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767687960369.png
+2026-01-06 13:56:00 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767687960369.png
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-06 13:56:00 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-06 15:05:32 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-06 15:05:54 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-06 15:05:54 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 15:05:54 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-06 15:05:54 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@58867cd5
+2026-01-06 15:05:54 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-06 15:05:54 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - isFlakyFailure value: false
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Failure is not flaky. No retry will be attempted.
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-06 15:05:55 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@58867cd5
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - current: 0
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): true
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - current: 0
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Retry pending, skipping screenshot
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Retry attempt for test: LoginSHRM will run again
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Retry pending for test: LoginSHRM, not creating a new Allure test
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-06 15:05:55 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-06 15:24:08 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-06 15:24:31 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-06 15:24:31 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 15:24:31 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-06 15:24:31 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@1c7f96b1
+2026-01-06 15:24:31 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-06 15:24:31 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - isFlakyFailure value: true
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-06 15:24:32 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@1c7f96b1
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - isFlakyFailure value: true
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-06 15:24:32 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-06 15:24:32 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-06 15:24:32 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767693273480.png
+2026-01-06 15:24:33 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767693273480.png
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-06 15:24:33 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-06 15:32:22 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@1c7f96b1
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - isFlakyFailure value: true
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - retryCount value: 0
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - maxRetryCount value: 1
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-06 15:32:28 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@1c7f96b1
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - isFlakyFailure value: true
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - retryCount value: 1
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - maxRetryCount value: 1
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-06 15:32:28 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-06 15:32:28 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-06 15:32:28 [main] ERROR listeners.TestListeners - Failed to attach screenshot to Allure: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=143.0.3650.96)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [9bd4f4a1b335b58fdaf3e4bb0d584d08, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.96, fedcm:accounts: true, goog:processID: 6768, ms:edgeOptions: {debuggerAddress: localhost:59533}, msedge: {msedgedriverVersion: 143.0.3650.96 (d55fe85d0141..., userDataDir: C:\Users\DINESH~1.DEV\AppDa...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59533/devtoo..., se:cdpVersion: 143.0.3650.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9bd4f4a1b335b58fdaf3e4bb0d584d08
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-06 15:32:28 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-06 15:32:28 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-06 15:32:28 [main] ERROR listeners.TestListeners - Failed to attach screenshot to Allure: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=143.0.3650.96)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [9bd4f4a1b335b58fdaf3e4bb0d584d08, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.96, fedcm:accounts: true, goog:processID: 6768, ms:edgeOptions: {debuggerAddress: localhost:59533}, msedge: {msedgedriverVersion: 143.0.3650.96 (d55fe85d0141..., userDataDir: C:\Users\DINESH~1.DEV\AppDa...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59533/devtoo..., se:cdpVersion: 143.0.3650.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9bd4f4a1b335b58fdaf3e4bb0d584d08
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-06 15:32:28 [main] INFO  listeners.TestListeners - Test Execution Completed.

@@ -1,0 +1,236 @@
+2026-01-20 14:27:26 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@52b06bef
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 14:29:13 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 14:29:13 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 14:33:09 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@623dcf2a
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 14:36:13 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 14:36:13 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 14:38:00 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@352c44a8
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 14:39:31 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 14:39:31 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 15:58:50 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 15:59:02 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 15:59:02 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@4b5a078a
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 15:59:13 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 15:59:13 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:00:49 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:00:58 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:00:58 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@ec8f4b9
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:01:08 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:01:08 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:03:33 [main] INFO  tests.MyFirstTest - Initializing the WebDriver and loading the URL
+2026-01-20 16:04:26 [main] INFO  tests.MyFirstTest - Navigated to URL
+2026-01-20 16:04:26 [main] INFO  tests.MyFirstTest - Starting a new test method
+2026-01-20 16:04:37 [main] INFO  tests.MyFirstTest - Closing browser
+2026-01-20 16:05:41 [main] INFO  tests.MyFirstTest - Initializing the WebDriver and loading the URL
+2026-01-20 16:05:59 [main] INFO  tests.MyFirstTest - Navigated to URL
+2026-01-20 16:05:59 [main] INFO  tests.MyFirstTest - Starting a new test method
+2026-01-20 16:07:56 [main] INFO  tests.MyFirstTest - Initializing the WebDriver and loading the URL
+2026-01-20 16:08:11 [main] INFO  tests.MyFirstTest - Navigated to URL
+2026-01-20 16:08:11 [main] INFO  tests.MyFirstTest - Starting a new test method
+2026-01-20 16:10:00 [main] INFO  tests.MyFirstTest - Closing browser
+2026-01-20 16:11:30 [main] INFO  tests.MyFirstTest - Initializing the WebDriver and loading the URL
+2026-01-20 16:11:42 [main] INFO  tests.MyFirstTest - Navigated to URL
+2026-01-20 16:11:42 [main] INFO  tests.MyFirstTest - Starting a new test method
+2026-01-20 16:13:26 [main] INFO  tests.MyFirstTest - Closing browser
+2026-01-20 16:16:32 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:16:51 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:16:51 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@2f4e40d7
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:17:15 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:17:15 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:21:28 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:21:45 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:21:45 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@663bb8ef
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:22:09 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:22:09 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:22:29 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:22:42 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:22:42 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@663bb8ef
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:23:05 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:23:05 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:23:34 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:23:45 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:23:45 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@ec8f4b9
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:23:57 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:23:57 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:24:30 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:24:40 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:24:40 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@663bb8ef
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:25:02 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:25:02 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:31:16 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:31:26 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:31:26 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@663bb8ef
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:31:49 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:31:49 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:32:03 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:32:17 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:32:17 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@51ec2856
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:32:36 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:32:36 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:35:33 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:35:47 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:35:47 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:36:19 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:36:19 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:36:19 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@1947596f
+2026-01-20 16:36:19 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:36:19 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - End of testing LoginSHRM test method
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+[INFO] End of testing LoginSHRM test method
+
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:36:20 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:39:08 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:39:26 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:39:26 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@37c36608
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:39:38 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:39:38 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:39:39 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-20 16:40:11 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-20 16:40:24 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-20 16:40:25 [main] INFO  listeners.TestListeners - Starting a new test method
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@64db4967
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - End of testing LoginSHRM test method
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+[INFO] End of testing LoginSHRM test method
+
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-20 16:40:51 [main] INFO  listeners.TestListeners - Closing browser

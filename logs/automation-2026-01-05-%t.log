@@ -1,0 +1,1060 @@
+2026-01-05 11:00:44 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 11:01:11 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 11:01:11 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 11:01:11 [main] INFO  listeners.TestListeners - Generated UUID for test: 54e658d6-195b-48e4-bd9c-da6f21292aea
+2026-01-05 11:01:12 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Generated UUID for test: eb50c6e6-3d58-484e-9979-f19f45149d21
+2026-01-05 11:01:12 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 11:01:12 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767591072935.png
+2026-01-05 11:01:12 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767591072935.png
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 11:01:12 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 11:01:13 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 11:05:28 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 11:05:52 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 11:05:52 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 11:05:52 [main] INFO  listeners.TestListeners - Generated UUID for test: 35878811-d391-4653-918c-0b0afd301e82
+2026-01-05 11:05:52 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 11:05:52 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 11:05:52 [main] INFO  listeners.TestListeners - Generated UUID for test: 92685e8d-a2c1-4271-a008-2d837c8653f7
+2026-01-05 11:05:52 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 11:05:52 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 11:05:52 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 11:05:52 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 11:05:52 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 11:05:53 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 11:05:53 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 11:05:53 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 11:05:53 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 11:05:53 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767591353601.png
+2026-01-05 11:05:53 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767591353601.png
+2026-01-05 11:05:53 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 11:05:53 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 11:05:53 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 12:16:15 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 12:16:40 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 12:16:40 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:16:40 [main] INFO  listeners.TestListeners - Generated UUID for test: 91769a99-4ee0-4fd8-b806-950dfa5f04f1
+2026-01-05 12:16:40 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 12:16:40 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:16:40 [main] INFO  listeners.TestListeners - Generated UUID for test: 9223d0b7-fc42-4e3f-9cc3-896e416fd302
+2026-01-05 12:16:40 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 12:16:40 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 12:16:40 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 12:16:40 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 12:16:40 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 12:16:41 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 12:16:41 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 12:16:41 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 12:16:42 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 12:16:42 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767595602226.png
+2026-01-05 12:16:42 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767595602226.png
+2026-01-05 12:16:42 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 12:16:42 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 12:16:42 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 12:23:48 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 12:24:10 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 12:24:10 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:24:10 [main] INFO  listeners.TestListeners - Generated UUID for test: 28ec517d-b4dd-41fd-8929-1b76a8f9e31f
+2026-01-05 12:24:10 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 12:24:10 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:24:10 [main] INFO  listeners.TestListeners - Generated UUID for test: ebe498ef-b789-4bfc-be10-9b9270169f79
+2026-01-05 12:24:10 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 12:24:10 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 12:24:10 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 12:24:10 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 12:24:10 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 12:24:11 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 12:24:11 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 12:24:11 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 12:24:12 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 12:24:12 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767596052098.png
+2026-01-05 12:24:12 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767596052098.png
+2026-01-05 12:24:12 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 12:24:12 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 12:24:12 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 12:29:35 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 12:29:53 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 12:29:53 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:29:53 [main] INFO  listeners.TestListeners - Generated UUID for test: 9344fffa-0882-4d5c-86ff-4ef780188468
+2026-01-05 12:29:54 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 12:29:54 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:29:54 [main] INFO  listeners.TestListeners - Generated UUID for test: 4b51b81b-ead4-421b-b9f4-6367ca0c184f
+2026-01-05 12:29:54 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 12:29:54 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 12:29:54 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 12:29:54 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 12:29:54 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 12:29:54 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 12:29:54 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 12:29:54 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 12:29:55 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 12:29:55 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767596395357.png
+2026-01-05 12:29:55 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767596395357.png
+2026-01-05 12:29:55 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 12:29:55 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 12:29:55 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 12:32:22 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 12:32:42 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Generated UUID for test: ef4b458b-daff-4dbf-877b-8daed3a6e252
+2026-01-05 12:32:43 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Generated UUID for test: 8d306b25-945c-44d8-b8b7-bc11eb4478f5
+2026-01-05 12:32:43 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 12:32:43 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 12:32:43 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 12:32:44 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 12:32:44 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767596564256.png
+2026-01-05 12:32:44 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767596564256.png
+2026-01-05 12:32:44 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 12:32:44 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 12:32:44 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 12:48:39 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Generated UUID for test: 3e21611b-83f3-4759-98ea-fe6ab0dd3190
+2026-01-05 12:48:58 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 12:48:58 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 12:48:58 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 12:48:59 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 12:48:59 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767597539017.png
+2026-01-05 12:48:59 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767597539017.png
+2026-01-05 12:48:59 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 12:48:59 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 12:48:59 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 13:04:47 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 13:05:05 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 13:05:05 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:05:06 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 13:05:06 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767598506960.png
+2026-01-05 13:05:06 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767598506960.png
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 13:05:06 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 13:05:07 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 13:12:27 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 13:12:47 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 13:12:47 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:12:47 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 13:12:47 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 13:12:47 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 13:12:47 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 13:12:47 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 13:12:47 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 13:12:47 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 13:12:47 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 13:12:48 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 13:12:48 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767598968652.png
+2026-01-05 13:12:48 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767598968652.png
+2026-01-05 13:12:48 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 13:12:48 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 13:12:48 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 13:12:48 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 13:12:48 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 13:15:36 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 13:15:55 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 13:15:55 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:15:55 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 13:15:55 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:15:55 [main] INFO  listeners.TestListeners - Generated UUID for test: 74e095c3-47c2-4d88-a435-97db19a9ea32
+2026-01-05 13:15:56 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 13:15:56 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 13:15:56 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 13:15:56 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 13:15:56 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 13:15:56 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 13:15:56 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 13:15:56 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 13:15:57 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 13:15:57 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767599157268.png
+2026-01-05 13:15:57 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767599157268.png
+2026-01-05 13:15:57 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 13:15:57 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 13:15:57 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 13:15:57 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 13:15:57 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 13:24:32 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 13:24:57 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 13:24:57 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:24:57 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 13:24:57 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 13:24:57 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 13:24:57 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 13:24:57 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 13:24:57 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 13:24:57 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 13:24:57 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 13:24:58 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 13:24:58 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767599698166.png
+2026-01-05 13:24:58 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767599698166.png
+2026-01-05 13:24:58 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 13:24:58 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 13:24:58 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 13:24:58 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 13:24:58 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 13:26:25 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 13:26:46 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 13:26:46 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:26:46 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 13:26:47 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:26:47 [main] INFO  listeners.TestListeners - Generated UUID for test: 4c7ee09b-2e22-4903-9d31-4112ce9e7f26
+2026-01-05 13:26:47 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 13:26:47 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 13:26:47 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 13:26:47 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 13:26:47 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 13:26:47 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 13:26:47 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 13:26:47 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 13:26:48 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 13:26:48 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767599808356.png
+2026-01-05 13:26:48 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767599808356.png
+2026-01-05 13:26:48 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 13:26:48 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 13:26:48 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 13:26:48 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 13:26:48 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 13:30:56 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 13:31:05 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 13:31:05 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:31:15 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Generated UUID for test: aef8cbb8-6a3d-4177-8a71-d51969f65985
+2026-01-05 13:31:15 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 13:31:15 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767600075884.png
+2026-01-05 13:31:15 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767600075884.png
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 13:31:15 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 13:37:15 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 13:37:33 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:37:34 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - Generated UUID for test: f7cdbc4f-e5bd-4aab-931b-313e174be97a
+2026-01-05 13:37:34 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@1292071f
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 13:37:34 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 13:37:34 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 13:37:35 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 13:37:35 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 13:37:35 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 13:37:36 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 13:37:36 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767600456123.png
+2026-01-05 13:37:36 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767600456123.png
+2026-01-05 13:37:36 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 13:37:36 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 13:37:36 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 13:37:36 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 13:37:36 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 13:50:24 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 13:50:43 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - current: 0
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 13:50:44 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Generated UUID for test: e104e669-b35f-4faf-9911-4687103471e5
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 13:50:44 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@1292071f
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 13:50:44 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 13:50:44 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767601245146.png
+2026-01-05 13:50:45 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767601245146.png
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - current: 0
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 13:50:45 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 14:03:53 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - current: 0
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 14:04:11 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 14:04:11 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Generated UUID for test: 87d99b52-b6e0-4b54-9315-7e496d3cb0b3
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:04:12 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:04:12 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767602052906.png
+2026-01-05 14:04:12 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767602052906.png
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@51c959a4
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - current: 0
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 14:04:12 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 14:04:13 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 14:10:43 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Generated UUID for test: 59d1f891-31c5-47c5-a53e-ac04d65b9a82
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 14:11:02 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:11:02 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:11:02 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 14:11:02 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767602463530.png
+2026-01-05 14:11:03 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767602463530.png
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@e5cbff2
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Generated UUID for test: b930cafc-41b3-488e-b395-f87c7a47c97f
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 14:11:03 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 14:29:18 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 14:29:40 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@623ebac7
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Generated UUID for test: 59ab3e82-cb12-4304-97fe-c287ac309a05
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 14:29:41 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@623ebac7
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 14:29:41 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@623ebac7
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:29:41 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 14:29:41 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767603582847.png
+2026-01-05 14:29:42 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767603582847.png
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Test Started: LoginSHRM1
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@4afbb6c2
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Generated UUID for test: a15828c6-06cd-4117-a69f-60a03a55d78f
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 14:29:42 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 14:29:43 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 14:42:36 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@4c18621b
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Generated UUID for test: 23d7f66f-55d8-4be0-ac45-438df5de6b4f
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 14:42:56 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@4c18621b
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 14:42:56 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@4c18621b
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:42:56 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 14:42:56 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767604377811.png
+2026-01-05 14:42:57 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767604377811.png
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6ede46f6
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Generated UUID for test: 1632fa4f-6dd4-4a11-8672-633f681fa2c8
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 14:42:57 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 14:47:37 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Generated UUID for test: 4ec604da-4cd2-48d1-9662-904ac1edd956
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 14:47:54 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 14:47:54 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 14:47:54 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 14:47:54 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767604675533.png
+2026-01-05 14:47:55 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767604675533.png
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@e5cbff2
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Generated UUID for test: 09c7b37d-8d0f-46a4-8ea3-5e4bfdb0c17d
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 14:47:55 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 15:07:03 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Generated UUID for test: 78e82644-a13b-414a-8095-e35c0e83e65e
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-05 15:07:24 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 15:07:24 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 15:07:24 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 15:07:24 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767605845273.png
+2026-01-05 15:07:25 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767605845273.png
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@e5cbff2
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - Generated UUID for test: 7db6203a-a315-4836-a8b7-ff4e6ed12fd8
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 15:07:25 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 16:11:56 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@623ebac7
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - Generated UUID for test: 170d5a66-af49-47a1-b384-109d5c7a7597
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@5434e40c
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - Generated UUID for test: 9fb0431d-3c09-43bd-b602-f6ca48439ebe
+2026-01-05 16:12:17 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 16:12:18 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 16:12:18 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 16:12:18 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 16:12:18 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 16:12:18 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 16:15:49 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@4d62f4c6
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Generated UUID for test: e1e0cfe6-ee6d-4ef4-8f57-e0605d71b535
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@5292ceca
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Generated UUID for test: a4f5533f-7ccb-4770-a918-38fcf2368bcc
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 16:16:09 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 16:32:06 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@65a48602
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 16:32:27 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 16:34:04 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 16:34:24 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-05 16:34:24 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 16:34:25 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 16:34:25 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 16:34:25 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767611066540.png
+2026-01-05 16:34:26 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767611066540.png
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@38d17d80
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 16:34:26 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 18:59:04 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@623ebac7
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-05 18:59:26 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@623ebac7
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 18:59:26 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@623ebac7
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 18:59:26 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 18:59:26 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767619767245.png
+2026-01-05 18:59:27 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767619767245.png
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6c6017b9
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 18:59:27 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 19:09:06 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 19:09:22 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 19:09:22 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:09:22 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:09:22 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 19:09:22 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-05 19:09:23 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 19:09:23 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:09:23 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 19:09:23 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767620364711.png
+2026-01-05 19:09:24 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767620364711.png
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@66273da0
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 19:09:24 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 19:11:18 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-05 19:11:35 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 19:11:35 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:11:35 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 19:11:35 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767620496219.png
+2026-01-05 19:11:36 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767620496219.png
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@4fc3c165
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 19:11:36 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 19:26:58 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-05 19:27:20 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 19:27:20 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 19:27:21 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@2b8bd798
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:27:21 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767621441839.png
+2026-01-05 19:27:21 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767621441839.png
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@66273da0
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 19:27:21 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 19:29:56 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@43e1692f
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-05 19:30:17 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@43e1692f
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 19:30:17 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@43e1692f
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:30:17 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 19:30:17 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767621618353.png
+2026-01-05 19:30:18 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767621618353.png
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@10a0fe30
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Testing LoginSHRM1 test method started
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - End of testing LoginSHRM1 test method
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Collected Logs: 
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 19:30:18 [main] INFO  listeners.TestListeners - Closing browser
+2026-01-05 19:42:05 [main] INFO  listeners.TestListeners - Initializing the WebDriver and loading the URL
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Navigated to URL
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value Before Increment: 0
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - RetryAnalyzer class => retryCount value After Increment: 1
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Retrying test LoginSHRM : attempt 1/1
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning true
+2026-01-05 19:42:27 [main] WARN  listeners.TestListeners - Test Skipped: LoginSHRM
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Current invocation count: 1
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - This is a retry execution, skipping Allure test creation.
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Testing LoginSHRM test method started
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners -  Into RetryAnalyzer Class => retry method
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Retry is Enabled in Properties file.
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Retry Analyzer class => retry method returning false
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Into onTestFailure listener: LoginSHRM
+2026-01-05 19:42:27 [main] ERROR listeners.TestListeners - Test Failed: LoginSHRM
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Retry enabled: true
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - retry: com.ns.frame.retry.RetryAnalyzer@6629ad09
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - retryCountRemaining(retry): false
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - current: 1
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - ConfigReader.retry.count: 1
+2026-01-05 19:42:27 [main] ERROR listeners.TestListeners - Final failure for test: LoginSHRM, capturing screenshot...
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Allure integration started...
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Allure integration Step 1...
+2026-01-05 19:42:27 [main] INFO  listeners.TestListeners - Allure integration Step 2...
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Screenshot attached to Allure report.
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Allure integration Step 3...
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Failure reason attached to Allure report.
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Capturing screenshot STARTED
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767622348918.png
+2026-01-05 19:42:28 [main] ERROR listeners.TestListeners - Screenshot captured at: C:\Users\dinesh.devaraj\Desktop\Project\Framework_Design\frame_ns\project_ns\demo\screenshots\MyFirstTest\LoginSHRM\LoginSHRM_1767622348918.png
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM test method started
+
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Test Started Listener: LoginSHRM1
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Current invocation count: 0
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - On Start => retry: com.ns.frame.retry.RetryAnalyzer@10a0fe30
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - End of onTestStart listener
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Testing LoginSHRM1 test method started
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - End of testing LoginSHRM1 test method
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Test Passed: LoginSHRM1
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - End of onTestSuccess listener
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Into attachLogsToAllure method
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Collected Logs: [INFO] Testing LoginSHRM1 test method started
+[INFO] End of testing LoginSHRM1 test method
+
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Into Logs
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - out of attachLogsToAllure method
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - All tests finished in suite: Smoke Test
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Test Execution Completed.
+2026-01-05 19:42:28 [main] INFO  listeners.TestListeners - Closing browser
